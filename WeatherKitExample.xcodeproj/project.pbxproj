@@ -22,7 +22,6 @@
 		0FC39B9F29909103007368E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0FC39BA629909154007368E1 /* WeatherKitService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherKitService.swift; sourceTree = "<group>"; };
 		0FC39BA82990956C007368E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		0FC39BA92990974D007368E1 /* WeatherKitExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WeatherKitExample.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +54,6 @@
 		0FC39B9729909103007368E1 /* WeatherKitExample */ = {
 			isa = PBXGroup;
 			children = (
-				0FC39BA92990974D007368E1 /* WeatherKitExample.entitlements */,
 				0FC39BA82990956C007368E1 /* Info.plist */,
 				0FC39B9829909103007368E1 /* WeatherKitExampleApp.swift */,
 				0FC39B9A29909103007368E1 /* ContentView.swift */,

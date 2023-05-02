@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import CoreLocation
+import CoreLocation 
 import WeatherKit
 
 class WeatherKitService: NSObject, ObservableObject, CLLocationManagerDelegate {

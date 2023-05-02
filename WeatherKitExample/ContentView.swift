@@ -34,7 +34,7 @@ struct ContentView: View {
                             .font(.subheadline)
                         Text("\(location)")
                             .multilineTextAlignment(.center)
-                            .font(.headline)
+                            .font(.headline) 
                             .fontWeight(.semibold)
                     }
 
